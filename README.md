@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/fvx95jkua5th3YeThr" width="100"/>
+  <img src="https://media4.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e477rqgisabtknw1vgc69nr2jm2pzqtsquo22dan5e3&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <!--
 **timeisgolden/timeisgolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
